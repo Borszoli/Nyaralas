@@ -39,3 +39,27 @@ p{
     text-align: justify;
 }
 
+#Delphoi{
+    text-align: end;
+}
+
+h2{
+    margin-top: 10px;
+}
+
+#Athén{
+    text-align: end;
+}
+
+#Meteorák{
+    text-align: end;
+}
+
+#Logokep{
+    display: block;
+    margin-top: 15px;
+    max-width: 2.5%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
