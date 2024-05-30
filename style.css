@@ -74,3 +74,10 @@ h2{
 
 .footer a{color: white;
     font-weight: bold;}
+
+    .carousel-control-prev{
+    margin-left: 200px;
+}
+.carousel-control-next{
+    margin-right: 200px;
+}
